@@ -3,6 +3,7 @@ import styled from "styled-components";
 import Banner from "./components/banner";
 import Categories from "./components/categories";
 import Products from "./components/products";
+import Newsletter from "./components/newsletter";
 
 function App() {
   const Main = styled.div`
@@ -18,6 +19,7 @@ function App() {
         <Banner />
         <Categories />
         <Products />
+        <Newsletter />
       </Container>
     </Main>
   );

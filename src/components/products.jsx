@@ -9,6 +9,7 @@ const Container = styled.div`
   flex-wrap: wrap;
   justify-content: center;
   margin-top: 10px;
+  background-color: #eeeeee;
 `;
 export default function Products() {
   return (
