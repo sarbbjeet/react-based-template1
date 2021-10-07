@@ -1,0 +1,81 @@
+{
+    "slides": [{
+            "id": 1,
+            "image": "./images/img1.jpg",
+            "title": "summer sale",
+            "desc": "Don't compromise on style! Get flat 30% off for new orders",
+            "btn_text": "Show more"
+        },
+        {
+            "id": 2,
+            "image": "./images/img2.jpg",
+            "title": "LOUNGEWEAR LOVE",
+            "desc": "Don't compromise on style! Get flat 30% off for new orders",
+            "btn_text": "Show more"
+        },
+        {
+            "id": 3,
+            "image": "./images/img3.jpg",
+            "title": "AUTUMN COLLECTION",
+            "desc": "Don't compromise on style! Get flat 30% off for new orders",
+            "btn_text": "Show more"
+        }
+    ],
+    "categories": [{
+            "id": 1,
+            "image": "./images/Linen-Shirt.jpg",
+            "title": "Linen Shirt"
+        },
+        {
+            "id": 2,
+            "image": "./images/traditionally-printed--shirt.jpg",
+            "title": "printed shirt"
+        },
+        {
+            "id": 3,
+            "image": "./images/back-cap-shirt.jpg",
+            "title": "back cap shirt"
+        }
+    ],
+    "products": [{
+            "id": 1,
+            "image": "./images/alyssa-graham-seZNU7HlvIs-unsplash.jpg"
+        },
+        {
+            "id": 2,
+            "image": "./images/budka-damdinsuren-IrQmtib-ER4-unsplash.jpg"
+        },
+        {
+            "id": 3,
+            "image": "./images/dekler-ph-dmaT2aD2CY8-unsplash.jpg"
+        },
+        {
+            "id": 4,
+            "image": "./images/eric-gonzalez-Z3CHkelnvHA-unsplash.jpg"
+        },
+        {
+            "id": 5,
+            "image": "./images/florencia-simonini-PDZAMYvduVk-unsplash.jpg"
+        },
+        {
+            "id": 6,
+            "image": "./images/marlon-alves-A0mSSCEVh9A-unsplash.jpg"
+        },
+        {
+            "id": 7,
+            "image": "./images/frederick-medina-E5VNn7VOBRw-unsplash.jpg"
+        },
+        {
+            "id": 8,
+            "image": "./images/matas-katinas-7ITfJfAxxY4-unsplash.jpg"
+        },
+        {
+            "id": 9,
+            "image": "./images/ryan-hoffman-u6n1HrW0sdQ-unsplash.jpg"
+        },
+        {
+            "id": 10,
+            "image": "./images/sahil-moosa-s27B05TjXxw-unsplash.jpg"
+        }
+    ]
+}
