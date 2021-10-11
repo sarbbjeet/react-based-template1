@@ -1,28 +1,16 @@
-import NavBar from "./components/navbar";
 import styled from "styled-components";
-import Banner from "./components/banner";
-import Categories from "./components/categories";
-import Products from "./components/products";
-import Newsletter from "./components/newsletter";
+import Home from "./Pages/home.jsx";
+import Product from "./Pages/product.jsx";
+import ProductsList from "./Pages/productsList.jsx";
+import Login from "./Pages/login.jsx";
+import Register from "./Pages/register.jsx";
+import Cart from "./Pages/cart.jsx";
 
-function App() {
-  const Main = styled.div`
-    height: 100vh;
-  `;
-  const Container = styled.div`
-    margin: 5px 20px;
-  `;
+const App = () => {
   return (
-    <Main>
-      <NavBar />
-      <Container>
-        <Banner />
-        <Categories />
-        <Products />
-        <Newsletter />
-      </Container>
-    </Main>
+    <>
+      <Cart />
+    </>
   );
-}
-
+};
 export default App;
